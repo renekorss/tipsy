@@ -1,0 +1,25 @@
+{
+  "name": "@renekorss/tipsy",
+  "version": "1.0.0",
+  "description": "Facebook style tooltip plugin for jQuery. Supports hoverStay option.",
+  "main": "src/javascripts/jquery.tipsy.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renekorss/tipsy.git"
+  },
+  "keywords": [
+    "tipsy"
+  ],
+  "author": "Jason Frame <jason@onehackoranother.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renekorss/tipsy/issues"
+  },
+  "homepage": "https://github.com/renekorss/tipsy#readme"
+}
