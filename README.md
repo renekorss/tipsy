@@ -1,6 +1,5 @@
-[![npm version](https://badge.fury.io/js/@renekorss/tipsy.svg)](https://badge.fury.io/js/@renekorss/tipsy)
+[![npm version](https://badge.fury.io/js/%40renekorss%2Ftipsy.svg)](https://badge.fury.io/js/%40renekorss%2Ftipsy)
 [![npm](https://img.shields.io/npm/dt/@renekorss/tipsy.svg)](https://www.npmjs.com/package/@renekorss/tipsy)
-[![Known Vulnerabilities](https://snyk.io/test/github/renekorss/@renekorss/tipsy/badge.svg?targetFile=package.json)](https://snyk.io/test/github/renekorss/@renekorss/tipsy?targetFile=package.json)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 # Tipsy (with hoverStay)
