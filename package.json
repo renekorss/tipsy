@@ -1,6 +1,6 @@
 {
   "name": "@renekorss/tipsy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Facebook style tooltip plugin for jQuery. Supports hoverStay option.",
   "main": "src/javascripts/jquery.tipsy.js",
   "directories": {
